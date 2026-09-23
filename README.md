@@ -69,7 +69,7 @@ The product-reference screenshot helps identify the general enclosure style. Mar
 
 ![Capture-card PCB before the LED modification](images/usb_capture_card_pcb.jpg)
 
-The processor, external EEPROM, HDMI connector and USB wiring are visible.
+The processor, external EEPROM, HDMI connector and USB pad. Replaced it's original USB connector and attempted to mod the capture card before but failed before this project is made.
 
 ### 3.3 Processor marking
 
